@@ -3,7 +3,7 @@ I bring a unique blend of sales expertise and analytical acumen. Specializing in
 
 - 👀 I’m interested in Data Analytics and Data Science
 - 🔭 I’m currently working on a project analyzing a client performance and conversion data
-- 💬 Ask me about bridging the gap between business and data
+- 💬 Ask me about how I approach data from a strategic and business minded perspective
 - 📫 How to reach me: ... https://www.linkedin.com/in/bryan-lolordo/
 
 <!--
