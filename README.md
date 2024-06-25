@@ -1,8 +1,9 @@
 ### Hi there 👋 my name is Bryan LoLordo and I am a strategic and business minded data junkie passionate about data and AI 
 I bring a unique blend of sales expertise and analytical acumen. Specializing in deriving actionable insights from complex data, adept at interpreting market trends and customer behaviors through a data-centric lens. Using storytelling with data to communicate and translate analytical findings with stakeholders, effectively bridging the gap between data science and business decision-making. Focuses on leveraging deep analytical skills and sales experience to uncover hidden opportunities and propel data-driven growth and innovation in dynamic business environments.
 
-- 👀 I’m interested in Data Analytics and Data Science
-- 🔭 I’m currently working on a project analyzing a client performance and conversion data
+- 👀 I’m interested in AI, ML, Data Analytics and Data Science
+- 🔭 I’m starting a summer internship as an AI Consultant at a technology consulting company
+- 🌱 I’m currently learning as much as I can about AI and getting my hands dirty with the different technologies! 
 - 💬 Ask me about how I approach data from a strategic and business minded perspective
 - 📫 How to reach me: ... https://www.linkedin.com/in/bryan-lolordo/
 
